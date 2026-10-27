@@ -180,7 +180,11 @@
         "src/plugins/recently-tended/index.js",
         "src/plugins/recently-tended/styles/list.scss",
         "src/plugins/recently-tended/templates/list.njk"
-      ]
+      ],
+      "settings": {
+        "heading": "What I'm thinking about",
+        "count": 7
+      }
     }
   }
 }
