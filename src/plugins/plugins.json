@@ -81,7 +81,7 @@
       ]
     },
     "dg-filetree": {
-      "enabled": false
+      "enabled": true
     },
     "reading-progress": {
       "repo": "koltensaccount/garden-plugin-reading-progress",
