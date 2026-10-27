@@ -64,7 +64,10 @@
         "src/plugins/random-note-button/README.md",
         "src/plugins/random-note-button/garden-plugin.json",
         "src/plugins/random-note-button/templates/button.njk"
-      ]
+      ],
+      "settings": {
+        "label": "I'm feeling lucky"
+      }
     },
     "related-notes": {
       "repo": "oleeskild/garden-plugin-related-notes",
