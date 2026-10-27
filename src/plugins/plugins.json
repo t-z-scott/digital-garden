@@ -115,7 +115,7 @@
       ],
       "settings": {
         "height": 3,
-        "bottom": true,
+        "bottom": false,
         "showTrack": true,
         "hideOnShortNotes": true,
         "showReadingTime": true,
