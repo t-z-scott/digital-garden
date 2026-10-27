@@ -167,6 +167,20 @@
         "src/plugins/sidebar-controls/templates/footer.njk",
         "src/plugins/sidebar-controls/templates/head.njk"
       ]
+    },
+    "recently-tended": {
+      "repo": "oleeskild/garden-plugin-recently-tended",
+      "installedVersion": "1.0.0",
+      "installedRef": "v1.0.0",
+      "installedAt": "2026-10-27T18:20:14.575Z",
+      "enabled": true,
+      "files": [
+        "src/plugins/recently-tended/README.md",
+        "src/plugins/recently-tended/garden-plugin.json",
+        "src/plugins/recently-tended/index.js",
+        "src/plugins/recently-tended/styles/list.scss",
+        "src/plugins/recently-tended/templates/list.njk"
+      ]
     }
   }
 }
