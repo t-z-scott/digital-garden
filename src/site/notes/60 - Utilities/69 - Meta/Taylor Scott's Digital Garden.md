@@ -17,6 +17,17 @@ This is a section of my personal [Obsidian](https://obsidian.md) vault that I'm 
 ## What I've been thinking about
 
 ```base
+properties:
+  file.name:
+    displayName: Name
+  note.dg-publish:
+    displayName: Published?
+  file.mtime:
+    displayName: Modified
+  file.tags:
+    displayName: Tags
+  file.ctime:
+    displayName: Created
 views:
   - type: table
     name: This week in notes
