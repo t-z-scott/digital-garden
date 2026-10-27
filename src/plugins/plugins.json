@@ -120,6 +120,31 @@
         "src/plugins/reading-progress/tests/progress.test.cjs",
         "src/plugins/reading-progress/tests/upstream-smoke.cjs"
       ]
+    },
+    "theme-toggle": {
+      "repo": "koltensaccount/garden-plugin-theme-toggle",
+      "installedVersion": "1.2.0",
+      "installedRef": "v1.2.0",
+      "installedAt": "2026-10-27T15:38:27.874Z",
+      "enabled": true,
+      "files": [
+        "src/plugins/theme-toggle/LICENSE",
+        "src/plugins/theme-toggle/README.md",
+        "src/plugins/theme-toggle/VALIDATION.md",
+        "src/plugins/theme-toggle/assets/color-options.js",
+        "src/plugins/theme-toggle/assets/nav-tools.js",
+        "src/plugins/theme-toggle/assets/theme-toggle.js",
+        "src/plugins/theme-toggle/garden-plugin.json",
+        "src/plugins/theme-toggle/package-lock.json",
+        "src/plugins/theme-toggle/package.json",
+        "src/plugins/theme-toggle/screenshot.png",
+        "src/plugins/theme-toggle/scripts/check.cjs",
+        "src/plugins/theme-toggle/scripts/install.cjs",
+        "src/plugins/theme-toggle/styles/nav-tools.css",
+        "src/plugins/theme-toggle/styles/theme-toggle.css",
+        "src/plugins/theme-toggle/templates/config.njk",
+        "src/plugins/theme-toggle/tests/browser.test.cjs"
+      ]
     }
   }
 }
