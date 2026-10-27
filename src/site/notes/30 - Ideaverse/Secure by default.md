@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-ideaverse/secure-by-default/","tags":["type/reference","area/career","keyword/cybersecurity"],"noteIcon":"","created":"2026-10-21T11:11:33.305-07:00","updated":"2026-10-27T09:02:21.756-07:00","ctime":"2026-10-21T11:11:33.305-07:00","mtime":"2026-10-27T09:02:21.756-07:00","dg-note-properties":{"tags":["type/reference","area/career","keyword/cybersecurity"]}}
+{"dg-publish":true,"permalink":"/30-ideaverse/secure-by-default/","tags":["type/reference","area/career","keyword/cybersecurity"],"noteIcon":"","created":"2026-10-21T11:11:33.305-07:00","updated":"2026-10-27T09:02:21.756-07:00","dg-note-properties":{"tags":["type/reference","area/career","keyword/cybersecurity"]}}
 ---
 
 Date created: [[20 - Logs/2026-10-21\|2026-10-21]] 
