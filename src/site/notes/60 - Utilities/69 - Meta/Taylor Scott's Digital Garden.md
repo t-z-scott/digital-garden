@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/60-utilities/69-meta/taylor-scott-s-digital-garden/","tags":["type/original","gardenEntry"],"noteIcon":"","created":"2026-10-27T06:58:37.812-07:00","updated":"2026-10-27T08:52:14.954-07:00","dg-note-properties":{"tags":["type/original","gardenEntry"]}}
+{"dg-publish":true,"permalink":"/60-utilities/69-meta/taylor-scott-s-digital-garden/","hideInFiletree":true,"tags":["type/original","gardenEntry"],"noteIcon":"","created":"2026-10-27T06:58:37.812-07:00","updated":"2026-10-27T09:09:54.148-07:00","dg-note-properties":{"tags":["type/original","gardenEntry"]}}
 ---
 
 Hi y'all, welcome to my [[digital garden\|digital garden]]! I'm [[Intro to Taylor 101\|Taylor]].
