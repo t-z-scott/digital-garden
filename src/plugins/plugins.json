@@ -112,7 +112,16 @@
         "src/plugins/reading-progress/tests/browser.test.cjs",
         "src/plugins/reading-progress/tests/progress.test.cjs",
         "src/plugins/reading-progress/tests/upstream-smoke.cjs"
-      ]
+      ],
+      "settings": {
+        "height": 3,
+        "bottom": true,
+        "showTrack": true,
+        "hideOnShortNotes": true,
+        "showReadingTime": true,
+        "resumeReading": true,
+        "wordsPerMinute": 220
+      }
     },
     "theme-toggle": {
       "repo": "koltensaccount/garden-plugin-theme-toggle",
