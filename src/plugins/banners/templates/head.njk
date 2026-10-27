@@ -1,6 +1,0 @@
-{% set gardenBannerHeight = pluginSettings.height | int %}
-<style>
-  :root {
-    --garden-banner-height: min({{ gardenBannerHeight if gardenBannerHeight > 0 else 220 }}px, 45vw);
-  }
-</style>
