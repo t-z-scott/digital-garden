@@ -165,6 +165,22 @@
         "src/plugins/heading-folding/styles/heading-folding.css",
         "src/plugins/heading-folding/tests/browser.test.cjs"
       ]
+    },
+    "sidebar-controls": {
+      "repo": "oleeskild/garden-plugin-sidebar-controls",
+      "installedVersion": "1.0.0",
+      "installedRef": "v1.0.0",
+      "installedAt": "2026-10-27T15:39:14.931Z",
+      "enabled": true,
+      "files": [
+        "src/plugins/sidebar-controls/README.md",
+        "src/plugins/sidebar-controls/garden-plugin.json",
+        "src/plugins/sidebar-controls/screenshot.png",
+        "src/plugins/sidebar-controls/styles/sidebar-controls.scss",
+        "src/plugins/sidebar-controls/templates/floating.njk",
+        "src/plugins/sidebar-controls/templates/footer.njk",
+        "src/plugins/sidebar-controls/templates/head.njk"
+      ]
     }
   }
 }
