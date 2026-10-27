@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/60-utilities/69-meta/taylor-scott-s-digital-garden/","tags":["gardenEntry"],"noteIcon":"","created":"2026-10-27T06:58:37.812-07:00","updated":"2026-10-27T08:30:49.369-07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/60-utilities/69-meta/taylor-scott-s-digital-garden/","tags":["type/original","gardenEntry"],"noteIcon":"","created":"2026-10-27T06:58:37.812-07:00","updated":"2026-10-27T08:50:48.727-07:00","dg-note-properties":{"tags":["type/original","gardenEntry"]}}
 ---
 
 #type/original 
