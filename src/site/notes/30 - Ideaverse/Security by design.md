@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-ideaverse/security-by-design/","tags":["type/reference","area/career","keyword/cybersecurity"],"noteIcon":"","created":"2026-10-21T11:02:36.846-07:00","updated":"2026-10-27T09:02:44.342-07:00","dg-note-properties":{"aliases":["secure design"],"tags":["type/reference","area/career","keyword/cybersecurity"]}}
+{"dg-publish":true,"permalink":"/30-ideaverse/security-by-design/","tags":["type/reference","area/career","keyword/cybersecurity"],"noteIcon":"","created":"2026-10-21T11:02:36.846-07:00","updated":"2026-10-27T09:02:44.342-07:00","ctime":"2026-10-21T11:02:36.846-07:00","mtime":"2026-10-27T09:02:44.342-07:00","dg-note-properties":{"aliases":["secure design"],"tags":["type/reference","area/career","keyword/cybersecurity"]}}
 ---
 
 Date created: [[20 - Logs/2026-10-21\|2026-10-21]] 
