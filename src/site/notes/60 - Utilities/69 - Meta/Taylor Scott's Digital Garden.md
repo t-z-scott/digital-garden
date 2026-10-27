@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/60-utilities/69-meta/taylor-scott-s-digital-garden/","tags":["type/original","gardenEntry"],"noteIcon":"","created":"2026-10-27T06:58:37.812-07:00","updated":"2026-10-27T09:10:49.470-07:00","dg-note-properties":{"tags":["type/original","gardenEntry"]}}
+{"dg-publish":true,"permalink":"/60-utilities/69-meta/taylor-scott-s-digital-garden/","tags":["type/original","gardenEntry"],"noteIcon":"","created":"2026-10-27T06:58:37.812-07:00","updated":"2026-10-27T09:21:57.924-07:00","dg-note-properties":{"tags":["type/original","gardenEntry"]}}
 ---
 
 Hi y'all, welcome to my [[digital garden\|digital garden]]! I'm [[Intro to Taylor 101\|Taylor]].
@@ -9,7 +9,7 @@ This is a section of my personal [Obsidian](https://obsidian.md) vault that I'm 
 >[!warning] Some notes will not be published but may have a dead link on a published note.
 
 ## What you can find here
-- Half-formed thoughts and opinions yet to be researched
+- Half-formed thoughts and opinions based on resources
 - Notes sorted by type
 - Maps (notes that structure links to other notes)
 - Lists! (Like this one) (I love making lists)
