@@ -96,6 +96,30 @@
     },
     "dg-filetree": {
       "enabled": false
+    },
+    "reading-progress": {
+      "repo": "koltensaccount/garden-plugin-reading-progress",
+      "installedVersion": "1.0.1",
+      "installedRef": "v1.0.1",
+      "installedAt": "2026-10-27T15:38:07.236Z",
+      "enabled": true,
+      "files": [
+        "src/plugins/reading-progress/LICENSE",
+        "src/plugins/reading-progress/README.md",
+        "src/plugins/reading-progress/VALIDATION.md",
+        "src/plugins/reading-progress/assets/reading-progress.js",
+        "src/plugins/reading-progress/garden-plugin.json",
+        "src/plugins/reading-progress/package-lock.json",
+        "src/plugins/reading-progress/package.json",
+        "src/plugins/reading-progress/screenshot.png",
+        "src/plugins/reading-progress/scripts/check.cjs",
+        "src/plugins/reading-progress/scripts/install.cjs",
+        "src/plugins/reading-progress/styles/reading-progress.css",
+        "src/plugins/reading-progress/templates/config.njk",
+        "src/plugins/reading-progress/tests/browser.test.cjs",
+        "src/plugins/reading-progress/tests/progress.test.cjs",
+        "src/plugins/reading-progress/tests/upstream-smoke.cjs"
+      ]
     }
   }
 }
