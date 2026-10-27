@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-ideaverse/ai-systems-are-vulnerable-to-the-same-vulnerabilities-as-software-systems/","tags":["type/opinion","area/self","keyword/cybersecurity","keyword/technology","keyword/AI"],"noteIcon":"","created":"2026-10-18T23:43:36.421-07:00","updated":"2026-10-27T08:57:23.313-07:00","dg-note-properties":{"tags":["type/opinion","area/self","keyword/cybersecurity","keyword/technology","keyword/AI"]}}
+{"dg-publish":true,"permalink":"/30-ideaverse/ai-systems-are-vulnerable-to-the-same-vulnerabilities-as-software-systems/","tags":["type/opinion","area/self","keyword/cybersecurity","keyword/technology","keyword/AI"],"noteIcon":"","created":"2026-10-18T23:43:36.421-07:00","updated":"2026-10-27T12:26:12.576-07:00","dg-note-properties":{"tags":["type/opinion","area/self","keyword/cybersecurity","keyword/technology","keyword/AI"],"growth":"budding"}}
 ---
 
 Date created: [[20 - Logs/24 - Days/2026-10-18\|2026-10-18]] 

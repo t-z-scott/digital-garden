@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/60-utilities/69-meta/taylor-scott-s-digital-garden/","tags":["type/original","gardenEntry"],"noteIcon":"","created":"2026-10-27T06:58:37.812-07:00","updated":"2026-10-27T11:33:41.382-07:00","dg-note-properties":{"tags":["type/original","gardenEntry"]}}
+{"dg-publish":true,"permalink":"/60-utilities/69-meta/taylor-scott-s-digital-garden/","tags":["type/original","gardenEntry"],"noteIcon":"","created":"2026-10-27T06:58:37.812-07:00","updated":"2026-10-27T12:25:05.513-07:00","dg-note-properties":{"tags":["type/original","gardenEntry"],"growth":"evergreen"}}
 ---
 
-Welcome to my [[digital garden\|digital garden]]! I'm [[Intro to Taylor 101\|Taylor]].
+Welcome to my [[30 - Ideaverse/digital garden\|digital garden]]! I'm [[Intro to Taylor 101\|Taylor]].
 
 This is a section of my personal [Obsidian](https://obsidian.md) vault that I'm sharing to learn in public. If you want to see more websites like this, check out the [Obsidian Garden Gallery](https://vaults.obsidian-community.com/) Community!
 
@@ -17,6 +17,6 @@ This is a section of my personal [Obsidian](https://obsidian.md) vault that I'm 
 I don't use AI, generative or otherwise, in any capacity for this site.[^1] 
 
 ## Get in touch! 📞
-I'm on LinkedIn, but I'd prefer an email.
+I'm on [LinkedIn](https://www.linkedin.com/in/taylor-z-scott/), but I'll reply quicker to [an email](mailto:hello@404onthefloor.com). I also [have a blog](https://blog.404onthefloor.com)!
 
 [^1]: That would defeat the purpose of writing to think.
