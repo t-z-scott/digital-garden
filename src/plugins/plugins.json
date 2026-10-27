@@ -150,7 +150,7 @@
       "repo": "koltensaccount/garden-plugin-heading-folding",
       "installedVersion": "1.0.0",
       "installedRef": "v1.0.0",
-      "installedAt": "2026-10-27T15:38:44.820Z",
+      "installedAt": "2026-10-27T15:42:01.335Z",
       "enabled": true,
       "files": [
         "src/plugins/heading-folding/LICENSE",
