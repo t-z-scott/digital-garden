@@ -53,6 +53,18 @@
         "src/plugins/note-age-banner/styles/banner.scss",
         "src/plugins/note-age-banner/templates/banner.njk"
       ]
+    },
+    "random-note-button": {
+      "repo": "oleeskild/garden-plugin-random-note-button",
+      "installedVersion": "1.0.0",
+      "installedRef": "v1.0.0",
+      "installedAt": "2026-10-27T15:36:47.388Z",
+      "enabled": true,
+      "files": [
+        "src/plugins/random-note-button/README.md",
+        "src/plugins/random-note-button/garden-plugin.json",
+        "src/plugins/random-note-button/templates/button.njk"
+      ]
     }
   }
 }
