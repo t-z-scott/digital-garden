@@ -81,7 +81,11 @@
         "src/plugins/related-notes/index.js",
         "src/plugins/related-notes/styles/related.scss",
         "src/plugins/related-notes/templates/related.njk"
-      ]
+      ],
+      "settings": {
+        "heading": "Related notes",
+        "count": 5
+      }
     },
     "dg-filetree": {
       "enabled": true
