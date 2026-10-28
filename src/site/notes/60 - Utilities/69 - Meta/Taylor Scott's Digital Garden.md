@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/60-utilities/69-meta/taylor-scott-s-digital-garden/","tags":["type/original","gardenEntry"],"noteIcon":"","created":"2026-10-27T06:58:37.812-07:00","updated":"2026-10-27T12:31:27.350-07:00","dg-note-properties":{"tags":["type/original","gardenEntry"],"growth":"evergreen"}}
 ---
 
-Welcome to my [[30 - Ideaverse/digital garden\|digital garden]]! I'm [[Intro to Taylor 101\|Taylor]].
+Welcome to my [[30 - Ideaverse/digital garden\|digital garden]]! I'm [[40 - Outputs/Intro to Taylor 101\|Taylor]].
 
 This is a section of my personal [Obsidian](https://obsidian.md) vault that I'm sharing to learn in public. If you want to see more websites like this, check out the [Obsidian Garden Gallery](https://vaults.obsidian-community.com/) Community!
 
