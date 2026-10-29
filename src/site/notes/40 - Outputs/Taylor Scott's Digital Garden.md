@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-outputs/taylor-scott-s-digital-garden/","tags":["type/original","gardenEntry"],"noteIcon":"","created":"2026-10-27T06:58:37.812-07:00","updated":"2026-10-27T19:12:50.045-07:00","dg-note-properties":{"tags":["type/original","gardenEntry"],"growth":"evergreen"}}
+{"dg-publish":true,"permalink":"/40-outputs/taylor-scott-s-digital-garden/","tags":["type/original","gardenEntry"],"noteIcon":"","created":"2026-10-27T06:58:37.812-07:00","updated":"2026-10-29T15:26:37.199-07:00","dg-note-properties":{"tags":["type/original","gardenEntry"],"growth":"evergreen"}}
 ---
 
 Welcome to my [[30 - Ideaverse/digital garden\|digital garden]]! I'm [[40 - Outputs/Intro to Taylor 101\|Taylor]].
@@ -10,7 +10,6 @@ This is a section of my personal [Obsidian](https://obsidian.md) vault that I'm 
 
 ## What's here 🔍
 - Half-formed thoughts and opinions based on resources
-- Notes sorted by type
 - Maps (notes that structure links to other notes)
 - Lists! (Like this one) (I love making lists)
 ## What's not here ❌
