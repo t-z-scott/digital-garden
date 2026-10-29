@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/30-ideaverse/digital-garden/","noteIcon":"","created":"2026-10-27T11:36:15.825-07:00","updated":"2026-10-27T12:01:03.422-07:00","dg-note-properties":{"aliases":["Digital garden","Digital Garden"],"growth":"seedling"}}
 ---
 
-Date created: [[20 - Logs/2026-10-27\|2026-10-27]] 
+Date created: [[20 - Logs/24 - Days/2026-10-27\|2026-10-27]] 
 Type: #type/reference 
 Area: #area/personal-development 
 Keywords: #keyword/learning #keyword/Internet #keyword/writing 
