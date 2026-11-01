@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/30-ideaverse/secure-by-default/","tags":["type/reference","area/career","keyword/cybersecurity"],"noteIcon":"","created":"2026-10-21T11:11:33.305-07:00","updated":"2026-10-27T12:26:51.147-07:00","dg-note-properties":{"tags":["type/reference","area/career","keyword/cybersecurity"],"growth":"evergreen"}}
 ---
 
-Date created: [[20 - Logs/2026-10-21\|2026-10-21]] 
+Date created: [[20 - Logs/24 - Days/2026-10-21\|2026-10-21]] 
 Type: #type/reference 
 Area: #area/career 
 Keywords: #keyword/cybersecurity 

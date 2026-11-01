@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/60-utilities/69-meta/resources/","tags":["type/list","area/career","area/personal-development","keyword/cybersecurity"],"noteIcon":"","created":"2026-10-16T11:46:54.334-07:00","updated":"2026-10-27T12:24:42.816-07:00","dg-note-properties":{"tags":["type/list","area/career","area/personal-development","keyword/cybersecurity"],"growth":"evergreen"}}
+{"dg-publish":true,"permalink":"/60-utilities/69-meta/resources/","tags":["type/list","area/career","area/personal-development","keyword/cybersecurity"],"noteIcon":"","created":"2026-10-16T11:46:54.334-07:00","updated":"2026-11-01T00:57:18.314-07:00","dg-note-properties":{"tags":["type/list","area/career","area/personal-development","keyword/cybersecurity"],"growth":"evergreen"}}
 ---
 
 Date created: [[20 - Logs/24 - Days/2026-10-16\|2026-10-16]] 
 Type: #type/list 
 Area: #area/career #area/personal-development 
 Keyword: #keyword/cybersecurity 
-Last updated: [[20 - Logs/24 - Days/2026-10-27\|2026-10-27]] 
+Last updated: [[20 - Logs/2026-10-31\|2026-10-31]] 
 
 ---
 
@@ -22,6 +22,34 @@ Last updated: [[20 - Logs/24 - Days/2026-10-27\|2026-10-27]]
 # Health
 ## Meds
 - [drugs.com](https://www.drugs.com) - read the label on a medicine you're taking, see how to take it and any potential side effects
+
+
+# Tech
+## Self-hosting
+- https://awesome-selfhosted.net/
+- https://www.deathplanswitch.com/
+- https://selfh.st/
+- https://self-host.fyi/
+### Done-for-you platforms
+Applications come pre-downloaded or are a one-click download / dedicated hardware
+- https://freedombox.org/
+- https://homelabos.com/
+- https://umbrel.com/umbrelos
+- https://www.cloudron.io/
+- https://www.zimaspace.com/zimaos
+- https://coolify.io/
+### Server management
+- https://runtipi.io/
+- https://caprover.com/
+- https://coopcloud.tech/
+### Hosting
+- https://yunohost.org/
+- https://www.pikapods.com/
+- https://instapods.com/
+
+## Homelab
+- https://ez-homelab.com/learn/homelab-starter-guide 
+- https://torminal.com/posts/homelab/start-selfhosting/ 
 
 # Recommendations
 - [recommend me a book.com](https://recommendmeabook.com/) - get the first page of a book without author, title, cover, etc and read it. if you liked it, you can reveal the book at the end
