@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/50-projects/51-homelab/homelab-readme/","noteIcon":"","created":"2026-10-31T01:56:07.281-07:00","updated":"2026-10-31T07:49:24.321-07:00","dg-note-properties":{"growth":"budding"}}
+{"dg-publish":true,"permalink":"/50-projects/51-homelab/homelab-readme/","noteIcon":"","created":"2026-10-31T01:56:07.281-07:00","updated":"2026-10-31T07:49:24.321-07:00","ctime":"2026-10-31T01:56:07.281-07:00","mtime":"2026-10-31T07:49:24.321-07:00","dg-note-properties":{"growth":"budding"}}
 ---
 
 Date created: [[20 - Logs/24 - Days/2026-10-31\|2026-10-31]] 

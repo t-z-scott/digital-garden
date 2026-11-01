@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-ideaverse/digital-garden/","noteIcon":"","created":"2026-10-27T11:36:15.825-07:00","updated":"2026-10-31T08:30:28.453-07:00","dg-note-properties":{"aliases":["Digital garden","Digital Garden"],"growth":"evergreen"}}
+{"dg-publish":true,"permalink":"/30-ideaverse/digital-garden/","noteIcon":"","created":"2026-10-27T11:36:15.825-07:00","updated":"2026-10-31T08:30:28.453-07:00","ctime":"2026-10-27T11:36:15.825-07:00","mtime":"2026-10-31T08:30:28.453-07:00","dg-note-properties":{"aliases":["Digital garden","Digital Garden"],"growth":"evergreen"}}
 ---
 
 Date created: [[20 - Logs/24 - Days/2026-10-27\|2026-10-27]] 

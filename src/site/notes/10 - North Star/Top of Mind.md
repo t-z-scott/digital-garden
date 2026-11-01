@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-north-star/top-of-mind/","noteIcon":"","created":"2026-10-15T23:32:16.058-07:00","updated":"2026-10-31T08:16:59.353-07:00","dg-note-properties":{"growth":"evergreen"}}
+{"dg-publish":true,"permalink":"/10-north-star/top-of-mind/","noteIcon":"","created":"2026-10-15T23:32:16.058-07:00","updated":"2026-10-31T08:16:59.353-07:00","ctime":"2026-10-15T23:32:16.058-07:00","mtime":"2026-10-31T08:16:59.353-07:00","dg-note-properties":{"growth":"evergreen"}}
 ---
 
 Date created: [[20 - Logs/24 - Days/2026-10-15\|2026-10-15]] 

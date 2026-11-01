@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-outputs/taylor-scott-s-digital-garden/","tags":["type/original","gardenEntry"],"noteIcon":"","created":"2026-10-27T06:58:37.812-07:00","updated":"2026-11-01T01:37:07.685-07:00","dg-note-properties":{"tags":["type/original","gardenEntry"],"growth":"evergreen"}}
+{"dg-publish":true,"permalink":"/40-outputs/taylor-scott-s-digital-garden/","tags":["type/original","gardenEntry"],"noteIcon":"","created":"2026-10-27T06:58:37.812-07:00","updated":"2026-11-01T01:37:07.685-07:00","ctime":"2026-10-27T06:58:37.812-07:00","mtime":"2026-11-01T01:37:07.685-07:00","dg-note-properties":{"tags":["type/original","gardenEntry"],"growth":"evergreen"}}
 ---
 
 Welcome to my [[30 - Ideaverse/digital garden\|digital garden]]! I'm [[40 - Outputs/Intro to Taylor 101\|Taylor]].

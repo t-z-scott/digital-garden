@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-outputs/intro-to-taylor-101/","noteIcon":"","created":"2026-10-27T12:34:14.396-07:00","updated":"2026-10-27T19:08:46.456-07:00","dg-note-properties":{"aliases":["Taylor - About"],"growth":"evergreen"}}
+{"dg-publish":true,"permalink":"/40-outputs/intro-to-taylor-101/","noteIcon":"","created":"2026-10-27T12:34:14.396-07:00","updated":"2026-10-27T19:08:46.456-07:00","ctime":"2026-10-27T12:34:14.396-07:00","mtime":"2026-10-27T19:08:46.456-07:00","dg-note-properties":{"aliases":["Taylor - About"],"growth":"evergreen"}}
 ---
 
 #type/original 

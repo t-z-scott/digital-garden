@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-ideaverse/freewriting/","noteIcon":"","created":"2026-10-31T08:03:57.089-07:00","updated":"2026-10-31T08:07:16.097-07:00","dg-note-properties":{"growth":"budding"}}
+{"dg-publish":true,"permalink":"/30-ideaverse/freewriting/","noteIcon":"","created":"2026-10-31T08:03:57.089-07:00","updated":"2026-10-31T08:07:16.097-07:00","ctime":"2026-10-31T08:03:57.089-07:00","mtime":"2026-10-31T08:07:16.097-07:00","dg-note-properties":{"growth":"budding"}}
 ---
 
 Date created: [[20 - Logs/24 - Days/2026-10-31\|2026-10-31]] 
