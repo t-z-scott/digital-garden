@@ -7,7 +7,7 @@ Type: #type/reference
 Area: #area/personal-development 
 Keywords: #keyword/learning #keyword/Internet #keyword/writing 
 Sources: [brennan.click](https://brennan.click/digital-garden/), [A Brief History & Ethos of the Digital Garden by Maggie Appleton](https://maggieappleton.com/garden-history/), [JR's Garage](https://jmugr.github.io/door/Digital-gardens), [rosano's jungle](https://ref.rosano.ca/01etwe6d05s2c8m8fj53wh3s4w) 
-Last updated: [[20 - Logs/2026-10-31\|2026-10-31]] 
+Last updated: [[20 - Logs/24 - Days/2026-10-31\|2026-10-31]] 
 
 ---
 

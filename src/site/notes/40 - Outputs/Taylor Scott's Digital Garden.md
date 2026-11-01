@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-outputs/taylor-scott-s-digital-garden/","tags":["type/original","gardenEntry"],"noteIcon":"","created":"2026-10-27T06:58:37.812-07:00","updated":"2026-10-31T07:54:45.249-07:00","dg-note-properties":{"tags":["type/original","gardenEntry"],"growth":"evergreen"}}
+{"dg-publish":true,"permalink":"/40-outputs/taylor-scott-s-digital-garden/","tags":["type/original","gardenEntry"],"noteIcon":"","created":"2026-10-27T06:58:37.812-07:00","updated":"2026-11-01T01:37:07.685-07:00","dg-note-properties":{"tags":["type/original","gardenEntry"],"growth":"evergreen"}}
 ---
 
 Welcome to my [[30 - Ideaverse/digital garden\|digital garden]]! I'm [[40 - Outputs/Intro to Taylor 101\|Taylor]].
@@ -20,5 +20,5 @@ I don't use AI, generative or otherwise, in any capacity for this site (or much 
 I'm on [LinkedIn](https://www.linkedin.com/in/taylor-z-scott/), but I'll reply quicker to [an email](mailto:hello@404onthefloor.com). I also [have a blog](https://blog.404onthefloor.com) and [a contact form](https://blog.404onthefloor.com/contact)!
 
 # Start here ⛳
-This page is home. See what's [[10 - North Star/Top of Mind\|Top of Mind]], or look at the recently updated notes below. 
+Go [[Home\|Home]], see what's [[10 - North Star/Top of Mind\|Top of Mind]], or look at the recently updated notes below. 
 

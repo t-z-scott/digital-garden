@@ -6,7 +6,7 @@ Date created: [[20 - Logs/24 - Days/2026-10-15\|2026-10-15]]
 Type: #type/original 
 Area: #area/north-star 
 Keyword: #keyword/top-of-mind 
-Last updated: [[20 - Logs/2026-10-31\|2026-10-31]] 
+Last updated: [[20 - Logs/24 - Days/2026-10-31\|2026-10-31]] 
 
 ---
 

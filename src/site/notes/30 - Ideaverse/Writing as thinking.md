@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/30-ideaverse/writing-as-thinking/","noteIcon":"","created":"2026-10-31T07:54:01.545-07:00","updated":"2026-10-31T08:11:18.537-07:00","dg-note-properties":{"aliases":["writing as thinking","Writing is thinking","writing makes your thoughts visible"],"growth":"evergreen"}}
 ---
 
-Date created: [[20 - Logs/2026-10-31\|2026-10-31]] 
+Date created: [[20 - Logs/24 - Days/2026-10-31\|2026-10-31]] 
 Type: #type/opinion 
 Area: #area/personal-development 
 Keywords: #keyword/writing #keyword/thinking 
