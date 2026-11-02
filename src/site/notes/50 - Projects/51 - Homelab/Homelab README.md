@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/50-projects/51-homelab/homelab-readme/","noteIcon":"","created":"2026-10-31T01:56:07.281-07:00","updated":"2026-11-01T18:19:56.344-08:00","ctime":"2026-10-31T01:56:07.281-07:00","mtime":"2026-11-01T18:19:56.344-08:00","dg-note-properties":{"growth":"budding"}}
+{"dg-publish":true,"permalink":"/50-projects/51-homelab/homelab-readme/","noteIcon":"","created":"2026-10-31T01:56:07.281-07:00","updated":"2026-11-01T18:31:11.946-08:00","ctime":"2026-10-31T01:56:07.281-07:00","mtime":"2026-11-01T18:31:11.946-08:00","dg-note-properties":{"growth":"budding"}}
 ---
 
 Date created: [[20 - Logs/25 - Days/2026-10-31\|2026-10-31]] 
@@ -73,4 +73,4 @@ graph TD
 ## Recovery
 See `06-troubleshooting/recovery.md` ([[50 - Projects/51 - Homelab/Homelab Recovery\|Homelab Recovery]])
 ## Changelog
-- 2026-00-00: VM setup and snapshots lab
+- 2026-10-20: VM setup and snapshots lab
