@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","noteIcon":"","created":"2026-11-01T01:36:58.227-07:00","updated":"2026-11-01T12:53:04.622-08:00","ctime":"2026-11-01T01:36:58.227-07:00","mtime":"2026-11-01T12:53:04.622-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/home/","noteIcon":"","created":"2026-11-01T01:36:58.227-07:00","updated":"2026-11-02T09:21:46.659-08:00","ctime":"2026-11-01T01:36:58.227-07:00","mtime":"2026-11-02T09:21:46.659-08:00","dg-note-properties":{}}
 ---
 
 up: [[40 - Outputs/Taylor Scott's Digital Garden\|Taylor Scott's Digital Garden]] 
@@ -11,7 +11,7 @@ This is your **launchpad**. Let's go.
 >[!idea]- Atlas
 > *Your brain, the final frontier.* 
 > - If you're inspired, go to [[Add\|Add]], [[Relate\|Relate]], or [[Communicate\|Communicate]].
-> - To dive into your knowledge, try [[Library\|Library]] | [[People Map\|People Map]] | [[Source Map\|Source Map]].
+> - To dive into your knowledge, try [[Library\|Library]] | [[People Map\|People Map]] | [[60 - Utilities/65 - Maps/Concepts Map\|Concepts Map]].
 > - To start your mind's engine, go into your [[Ideas Map\|Ideas Map]].
 > - For grounding in all this theory, [[Life Map\|Life Map]]. For system rules, [[Meta Map\|Meta Map]].
 
