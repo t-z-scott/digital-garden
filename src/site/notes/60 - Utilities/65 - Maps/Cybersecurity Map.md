@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/60-utilities/65-maps/cybersecurity-map/","noteIcon":"","created":"2026-10-29T15:10:25.192-07:00","updated":"2026-10-29T22:39:14.972-07:00","ctime":"2026-10-29T15:10:25.192-07:00","mtime":"2026-10-29T22:39:14.972-07:00","dg-note-properties":{"aliases":["Cybersecurity MOC"],"growth":"budding"}}
 ---
 
-Date created: [[20 - Logs/24 - Days/2026-10-29\|2026-10-29]] 
+Date created: [[20 - Logs/25 - Days/2026-10-29\|2026-10-29]] 
 Type: #type/list 
 Area: #area/career #area/personal-development 
 Keywords: #keyword/cybersecurity 
