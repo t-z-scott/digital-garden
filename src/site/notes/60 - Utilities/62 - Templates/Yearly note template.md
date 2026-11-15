@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/60-utilities/62-templates/yearly-note-template/","noteIcon":"","created":"2026-11-01T17:53:41.037-08:00","updated":"2026-11-01T18:19:17.822-08:00","ctime":"2026-11-01T17:53:41.037-08:00","mtime":"2026-11-01T18:19:17.822-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/60-utilities/62-templates/yearly-note-template/","noteIcon":"","created":"2026-11-01T17:53:41.037-08:00","updated":"2026-11-14T16:51:47.511-08:00","ctime":"2026-11-01T17:53:41.037-08:00","mtime":"2026-11-14T16:51:47.511-08:00","dg-note-properties":{"growth":"evergreen"}}
 ---
 
 #type/year 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/50-outputs/51-guides/how-to-write-a-technical-blog-post/","noteIcon":"","created":"2026-11-01T00:57:50.354-07:00","updated":"2026-11-01T12:50:24.265-08:00","ctime":"2026-11-01T00:57:50.354-07:00","mtime":"2026-11-01T12:50:24.265-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/50-outputs/51-guides/how-to-write-a-technical-blog-post/","noteIcon":"","created":"2026-11-01T00:57:50.354-07:00","updated":"2026-11-14T16:50:40.458-08:00","ctime":"2026-11-01T00:57:50.354-07:00","mtime":"2026-11-14T16:50:40.458-08:00","dg-note-properties":{"growth":"budding"}}
 ---
 
 Date created: [[20 - Logs/25 - Days/2026-11-01\|2026-11-01]] 

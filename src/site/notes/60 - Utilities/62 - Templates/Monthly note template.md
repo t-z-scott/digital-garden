@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/60-utilities/62-templates/monthly-note-template/","noteIcon":"","created":"2026-11-01T17:11:52.315-08:00","updated":"2026-11-01T18:19:20.925-08:00","ctime":"2026-11-01T17:11:52.315-08:00","mtime":"2026-11-01T18:19:20.925-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/60-utilities/62-templates/monthly-note-template/","noteIcon":"","created":"2026-11-01T17:11:52.315-08:00","updated":"2026-11-14T16:50:51.378-08:00","ctime":"2026-11-01T17:11:52.315-08:00","mtime":"2026-11-14T16:50:51.378-08:00","dg-note-properties":{"growth":"evergreen"}}
 ---
 
 #type/month

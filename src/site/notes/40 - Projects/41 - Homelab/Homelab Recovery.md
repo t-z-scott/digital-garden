@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-projects/41-homelab/homelab-recovery/","noteIcon":"","created":"2026-11-01T17:21:58.438-08:00","updated":"2026-11-01T18:20:11.913-08:00","ctime":"2026-11-01T17:21:58.438-08:00","mtime":"2026-11-01T18:20:11.913-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/40-projects/41-homelab/homelab-recovery/","noteIcon":"","created":"2026-11-01T17:21:58.438-08:00","updated":"2026-11-14T16:50:04.425-08:00","ctime":"2026-11-01T17:21:58.438-08:00","mtime":"2026-11-14T16:50:04.425-08:00","dg-note-properties":{"growth":"budding"}}
 ---
 
 Date created: [[20 - Logs/25 - Days/2026-11-01\|2026-11-01]] 

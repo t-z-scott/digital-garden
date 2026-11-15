@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","noteIcon":"","created":"2026-11-01T01:36:58.227-07:00","updated":"2026-11-07T03:36:23.134-08:00","ctime":"2026-11-01T01:36:58.227-07:00","mtime":"2026-11-07T03:36:23.134-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/home/","noteIcon":"","created":"2026-11-01T01:36:58.227-07:00","updated":"2026-11-14T16:50:23.213-08:00","ctime":"2026-11-01T01:36:58.227-07:00","mtime":"2026-11-14T16:50:23.213-08:00","dg-note-properties":{"growth":"evergreen"}}
 ---
 
 up: [[50 - Outputs/Taylor Scott's Digital Garden\|Taylor Scott's Digital Garden]] 

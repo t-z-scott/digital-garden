@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/60-utilities/62-templates/quarterly-note-template/","noteIcon":"","created":"2026-11-01T17:33:27.517-08:00","updated":"2026-11-01T18:19:19.070-08:00","ctime":"2026-11-01T17:33:27.517-08:00","mtime":"2026-11-01T18:19:19.070-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/60-utilities/62-templates/quarterly-note-template/","noteIcon":"","created":"2026-11-01T17:33:27.517-08:00","updated":"2026-11-14T16:51:09.580-08:00","ctime":"2026-11-01T17:33:27.517-08:00","mtime":"2026-11-14T16:51:09.580-08:00","dg-note-properties":{"growth":"evergreen"}}
 ---
 
 #type/quarter
