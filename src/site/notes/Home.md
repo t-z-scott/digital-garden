@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/home/","noteIcon":"","created":"2026-11-01T01:36:58.227-07:00","updated":"2026-11-02T09:21:46.659-08:00","ctime":"2026-11-01T01:36:58.227-07:00","mtime":"2026-11-02T09:21:46.659-08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/home/","noteIcon":"","created":"2026-11-01T01:36:58.227-07:00","updated":"2026-11-07T03:36:23.134-08:00","ctime":"2026-11-01T01:36:58.227-07:00","mtime":"2026-11-07T03:36:23.134-08:00","dg-note-properties":{}}
 ---
 
-up: [[40 - Outputs/Taylor Scott's Digital Garden\|Taylor Scott's Digital Garden]] 
+up: [[50 - Outputs/Taylor Scott's Digital Garden\|Taylor Scott's Digital Garden]] 
 
 #type/original 
 
@@ -10,17 +10,17 @@ This is your **launchpad**. Let's go.
 
 >[!idea]- Atlas
 > *Your brain, the final frontier.* 
-> - If you're inspired, go to [[Add\|Add]], [[Relate\|Relate]], or [[Communicate\|Communicate]].
-> - To dive into your knowledge, try [[Library\|Library]] | [[People Map\|People Map]] | [[60 - Utilities/65 - Maps/Concepts Map\|Concepts Map]].
-> - To start your mind's engine, go into your [[Ideas Map\|Ideas Map]].
-> - For grounding in all this theory, [[Life Map\|Life Map]]. For system rules, [[Meta Map\|Meta Map]].
+> - If you're inspired, go to [[60 - Utilities/65 - Maps/Add\|Add]], [[60 - Utilities/65 - Maps/Relate\|Relate]], or [[60 - Utilities/65 - Maps/Communicate\|Communicate]].
+> - To dive into your knowledge, try [[60 - Utilities/65 - Maps/Library\|Library]] | [[People Map\|People Map]] | [[Sources Map\|Sources Map]].
+> - To start your mind's engine, go into your [[50 - Outputs/My ideas\|Ideas Map]] or [[60 - Utilities/65 - Maps/Concepts Map\|Concepts Map]].
+> - For grounding in all this theory, [[60 - Utilities/65 - Maps/Life Map\|Life Map]]. For system rules, [[60 - Utilities/65 - Maps/Meta Map\|Meta Map]].
 
 >[!question]- Calendar
 > *Orient yourself.* 
 > - To journal or capture a quick spark, open the command pallette with `Ctrl+P` and select `QuickAdd: Daily note log`.
 > - To focus your day, open the command pallette with `Ctrl+P` and select `Daily note: Open today's daily note`.
-> - To capture specific types of things, go to [[Logs\|Logs]].
-> - To broadly reflect, go to [[Plan and Review\|Plan and Review]].
+> - To capture specific types of things, go to [[60 - Utilities/65 - Maps/Logs\|Logs]].
+> - To broadly reflect, go to [[60 - Utilities/65 - Maps/Plan and Review\|Plan and Review]].
 
 >[!example]- Projects
 > *Get shit done.* 

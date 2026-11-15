@@ -6,7 +6,7 @@ Date created: [[20 - Logs/25 - Days/2026-10-29\|2026-10-29]]
 Type: #type/list 
 Area: #area/career #area/personal-development 
 Keywords: #keyword/cybersecurity 
-Last updated: [[20 - Logs/2026-11-02\|2026-11-02]] 
+Last updated: [[20 - Logs/25 - Days/2026-11-02\|2026-11-02]] 
 
 ---
 

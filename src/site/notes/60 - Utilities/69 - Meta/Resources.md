@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/60-utilities/69-meta/resources/","tags":["type/list","area/career","area/personal-development","keyword/cybersecurity"],"noteIcon":"","created":"2026-10-16T11:46:54.334-07:00","updated":"2026-11-01T19:44:16.437-08:00","ctime":"2026-10-16T11:46:54.334-07:00","mtime":"2026-11-01T19:44:16.437-08:00","dg-note-properties":{"tags":["type/list","area/career","area/personal-development","keyword/cybersecurity"],"growth":"evergreen"}}
+{"dg-publish":true,"permalink":"/60-utilities/69-meta/resources/","tags":["type/list","area/career","area/personal-development","keyword/cybersecurity"],"noteIcon":"","created":"2026-10-16T11:46:54.334-07:00","updated":"2026-11-10T14:54:17.943-08:00","ctime":"2026-10-16T11:46:54.334-07:00","mtime":"2026-11-10T14:54:17.943-08:00","dg-note-properties":{"tags":["type/list","area/career","area/personal-development","keyword/cybersecurity"],"growth":"evergreen"}}
 ---
 
 Date created: [[20 - Logs/25 - Days/2026-10-16\|2026-10-16]] 
 Type: #type/list 
 Area: #area/career #area/personal-development 
 Keyword: #keyword/cybersecurity 
-Last updated: [[20 - Logs/2026-11-01\|2026-11-01]] 
+Last updated: [[20 - Logs/2026-11-10\|2026-11-10]] 
 
 ---
 
@@ -51,6 +51,9 @@ Applications come pre-downloaded or are a one-click download / dedicated hardwar
 ## Homelab
 - https://ez-homelab.com/learn/homelab-starter-guide 
 - https://torminal.com/posts/homelab/start-selfhosting/ 
+
+## Freelancing
+- https://gofieldfare.com/ - freemium invoicing app
 
 # Recommendations
 - [recommend me a book.com](https://recommendmeabook.com/) - get the first page of a book without author, title, cover, etc and read it. if you liked it, you can reveal the book at the end
