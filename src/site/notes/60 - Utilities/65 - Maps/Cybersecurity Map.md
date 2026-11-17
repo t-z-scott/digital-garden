@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/60-utilities/65-maps/cybersecurity-map/","noteIcon":"","created":"2026-10-29T15:10:25.192-07:00","updated":"2026-11-02T09:28:46.907-08:00","ctime":"2026-10-29T15:10:25.192-07:00","mtime":"2026-11-02T09:28:46.907-08:00","dg-note-properties":{"aliases":["Cybersecurity MOC"],"growth":"budding"}}
+{"dg-publish":true,"permalink":"/60-utilities/65-maps/cybersecurity-map/","noteIcon":"","created":"2026-10-29T15:10:25.192-07:00","updated":"2026-11-14T19:56:13.006-08:00","ctime":"2026-10-29T15:10:25.192-07:00","mtime":"2026-11-14T19:56:13.006-08:00","dg-note-properties":{"aliases":["Cybersecurity MOC"],"growth":"budding"}}
 ---
 
 Date created: [[20 - Logs/25 - Days/2026-10-29\|2026-10-29]] 
@@ -10,7 +10,7 @@ Last updated: [[20 - Logs/25 - Days/2026-11-02\|2026-11-02]]
 
 ---
 
-up: [[60 - Utilities/65 - Maps/Concepts Map\|Concepts Map]] 
+> *up: [[60 - Utilities/65 - Maps/Concepts Map\|Concepts Map]]* 
 
 unsorted:
 - [[30 - Ideaverse/Secure by default\|Secure by default]] 
@@ -24,6 +24,8 @@ unsorted:
 - [[Vulnerability\|Vulnerability]] 
 - [[Bug\|Bug]] 
 - [[Risk\|Risk]] 
+## People to follow
+[[Cybersecurity Industry Figures\|Cybersecurity Industry Figures]] 
 # 02. Network Security
 - Terms
 - Hardening

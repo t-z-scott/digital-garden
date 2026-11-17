@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/60-utilities/65-maps/concepts-map/","noteIcon":"","created":"2026-11-02T09:14:15.099-08:00","updated":"2026-11-02T09:30:12.423-08:00","ctime":"2026-11-02T09:14:15.099-08:00","mtime":"2026-11-02T09:30:12.423-08:00","dg-note-properties":{"aliases":["What I know"],"growth":"seedling"}}
+{"dg-publish":true,"permalink":"/60-utilities/65-maps/concepts-map/","noteIcon":"","created":"2026-11-02T09:14:15.099-08:00","updated":"2026-11-16T23:02:07.615-08:00","ctime":"2026-11-02T09:14:15.099-08:00","mtime":"2026-11-16T23:02:07.615-08:00","dg-note-properties":{"aliases":["What I know"],"growth":"seedling","up":["[[Home]]"]}}
 ---
 
 Date created: [[20 - Logs/25 - Days/2026-11-02\|2026-11-02]] 
@@ -10,8 +10,7 @@ Last updated:
 
 ---
 
-up: [[Home\|Home]] 
-down: [[30 - Ideaverse/What I don't know\|What I don't know]] 
+> *down: [[30 - Ideaverse/What I don't know\|What I don't know]]* 
 
 ## Information Technology
 ## Hardware

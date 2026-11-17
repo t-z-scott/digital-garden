@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/60-utilities/62-templates/yearly-note-template/","noteIcon":"","created":"2026-11-01T17:53:41.037-08:00","updated":"2026-11-14T16:51:47.511-08:00","ctime":"2026-11-01T17:53:41.037-08:00","mtime":"2026-11-14T16:51:47.511-08:00","dg-note-properties":{"growth":"evergreen"}}
+{"dg-publish":true,"permalink":"/60-utilities/62-templates/yearly-note-template/","noteIcon":"","created":"2026-11-01T17:53:41.037-08:00","updated":"2026-11-14T17:16:48.519-08:00","ctime":"2026-11-01T17:53:41.037-08:00","mtime":"2026-11-14T17:16:48.519-08:00","dg-note-properties":{"growth":"evergreen"}}
 ---
 
 #type/year 
@@ -10,7 +10,17 @@ Year quarters:
 
 Areas: 
 
-# 41 questions
+# {{title}} - Year of THEME
+
+>[!info] description
+> *more about why you picked this* 
+
+>[!idea] ideal outcomes
+> - ex: Read every day
+
+---
+
+# 40 questions
 1. What did you do this year that you’d never done before?
 2. Did you keep your new year’s resolutions?
 3. Did anyone close to you give birth?
