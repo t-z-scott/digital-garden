@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/30-ideaverse/apps-i-want-to-use-that-are-i-os-only/","noteIcon":"","created":"2026-10-31T08:16:59.537-07:00","updated":"2026-11-14T16:50:16.358-08:00","ctime":"2026-10-31T08:16:59.537-07:00","mtime":"2026-11-14T16:50:16.358-08:00","dg-note-properties":{"growth":"seedling"}}
+{"dg-publish":true,"permalink":"/30-ideaverse/apps-i-want-to-use-that-are-i-os-only/","noteIcon":"","created":"2026-10-31T08:16:59.537-07:00","updated":"2026-11-16T21:23:39.574-08:00","ctime":"2026-10-31T08:16:59.537-07:00","mtime":"2026-11-16T21:23:39.574-08:00","dg-note-properties":{"growth":"seedling"}}
 ---
 
 Date created: [[20 - Logs/25 - Days/2026-10-31\|2026-10-31]] 
 Type: #type/list 
-Area: #area/finding-joy 
+Area: #area/career 
 Keywords: #keyword/technology 
 Last updated: [[20 - Logs/25 - Days/2026-11-02\|2026-11-02]] 
 
