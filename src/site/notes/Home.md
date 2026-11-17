@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/home/","noteIcon":"","created":"2026-11-01T01:36:58.227-07:00","updated":"2026-11-16T23:01:08.179-08:00","ctime":"2026-11-01T01:36:58.227-07:00","mtime":"2026-11-16T23:01:08.179-08:00","dg-note-properties":{"growth":"evergreen","up":["[[50 - Outputs/Taylor Scott's Digital Garden]]"]}}
+{"dg-publish":true,"permalink":"/home/","noteIcon":"","created":"2026-11-01T01:36:58.227-07:00","updated":"2026-11-17T04:11:52.370-08:00","ctime":"2026-11-01T01:36:58.227-07:00","mtime":"2026-11-17T04:11:52.370-08:00","dg-note-properties":{"up":["[[50 - Outputs/Taylor Scott's Digital Garden]]"],"type":["original"],"growth":"evergreen"}}
 ---
-
-#type/original 
 
 This is your **launchpad**. Let's go.
 

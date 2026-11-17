@@ -7,7 +7,7 @@ Type: #type/list
 Area: #area/personal-development #area/career 
 Keywords: #keyword/cybersecurity #keyword/technology 
 Source: [Hackersploit](https://docs.google.com/presentation/d/1lq8gjgAJ-gjKFpaEEOj7ISsuDy4C8dL4/mobilepresent?slide=id.p5) 
-Last updated: [[20 - Logs/2026-11-16\|2026-11-16]] 
+Last updated: [[20 - Logs/25 - Days/2026-11-16\|2026-11-16]] 
 
 ---
 
