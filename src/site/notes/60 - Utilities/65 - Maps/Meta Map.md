@@ -1,9 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/60-utilities/65-maps/meta-map/","noteIcon":"","created":"2026-11-10T15:17:59.019-08:00","updated":"2026-11-16T23:13:37.656-08:00","ctime":"2026-11-10T15:17:59.019-08:00","mtime":"2026-11-16T23:13:37.656-08:00","dg-note-properties":{"up":["[[Home]]"]}}
----
-
-#type/original 
-
+{"dg-publish":true,"permalink":"/60-utilities/65-maps/meta-map/","noteIcon":"","created":"2026-11-10T15:17:59.019-08:00","updated":"2026-11-17T04:12:30.125-08:00","ctime":"2026-11-10T15:17:59.019-08:00","mtime":"2026-11-17T04:12:30.125-08:00","dg-note-properties":{"up":["[[Home]]"],"type":["original"],"growth":"evergreen"}}
 ---
 
 # Managing my infrastructure

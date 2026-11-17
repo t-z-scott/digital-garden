@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/60-utilities/69-meta/my-pkm-system-inputs-outputs/","noteIcon":"","created":"2026-11-16T22:25:26.897-08:00","updated":"2026-11-17T03:44:59.355-08:00","ctime":"2026-11-16T22:25:26.897-08:00","mtime":"2026-11-17T03:44:59.355-08:00","dg-note-properties":{"up":["[[60 - Utilities/65 - Maps/Meta Map]]"],"created":"2026-11-16","type":["original"]}}
+{"dg-publish":true,"permalink":"/60-utilities/69-meta/my-pkm-system-inputs-outputs/","noteIcon":"","created":"2026-11-16T22:25:26.897-08:00","updated":"2026-11-17T04:12:46.271-08:00","ctime":"2026-11-16T22:25:26.897-08:00","mtime":"2026-11-17T04:12:46.271-08:00","dg-note-properties":{"up":["[[60 - Utilities/65 - Maps/Meta Map]]"],"created":"2026-11-16","type":["original"],"growth":"evergreen"}}
 ---
 
 > *an evolving document on how my system works. i had these as separate notes in capacities, but i didn't get a clear overview that way. headings are steps in the creativity flywheel.* 
